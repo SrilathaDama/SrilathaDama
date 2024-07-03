@@ -17,7 +17,9 @@
 - Passionate about leveraging technology to solve complex problems
 
 Let's connect!
+
 LinkedIn: [https://www.linkedin.com/in/srilatha-dama/](https://www.linkedin.com/in/srilatha-dama/)
+
 Email : [srilathadama9@gmail.com](url) / [srilatha@usc.edu](url)
 
 
