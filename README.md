@@ -2,15 +2,13 @@
 
 - Master's student in Computer Science at USC
 - Specializing in AI, machine learning, and full-stack web development
-- AI Research Assistant at USC Information Sciences Institute
-- Robotic Process Automation Intern at EDUSKILLS, AICTE
-- Python Development Associate at The Entrepreneurship Network
-- AWS Cloud Computing Intern at EDUSKILLS, AICTE
+- Currently working as AI Research Assistant at USC Information Sciences Institute
+  
 - **Skills:**
   - **Languages:** Python, Java, C++, HTML, CSS, JavaScript
   - **Frameworks:** React, Angular, Node.js, Django, Flask
   - **AI/ML:** Pandas, Numpy, PyTorch, TensorFlow, Scikit-learn
-  - **Tools:** Git, Docker, AWS
+  - **Tools:** Git, Docker, AWS, GCP
 - **Projects:**
   - **[Generative AI Chatbot](https://github.com/SrilathaDama/Chatbot):** Built an intelligent conversational interface using Streamlit and OpenAI.
   - **[Stock Search Application](https://youtu.be/iSWFWgOraoA):** Developed a web and mobile app for real-time stock tracking using Angular and Node.js.
