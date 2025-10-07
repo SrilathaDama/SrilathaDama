@@ -1,37 +1,41 @@
+
 ### Hi there, I'm Srilatha Dama 👋
 
-- Master's student in Computer Science at USC
-- Specializing in AI, machine learning, and full-stack web development
-- Currently working as AI Research Assistant at USC Information Sciences Institute
-  
-- **Skills:**
-  - **Languages:** Python, Java, C++, HTML, CSS, JavaScript
-  - **Frameworks:** React, Angular, Node.js, Django, Flask
-  - **AI/ML:** Pandas, Numpy, PyTorch, TensorFlow, Scikit-learn
-  - **Tools:** Git, Docker, AWS, GCP
-- **Projects:**
-  - **[Generative AI Chatbot](https://github.com/SrilathaDama/Chatbot):** Built an intelligent conversational interface using Streamlit and OpenAI.
-  - **[Stock Search Application](https://youtu.be/iSWFWgOraoA):** Developed a web and mobile app for real-time stock tracking using Angular and Node.js.
-- Passionate about leveraging technology to solve complex problems
+* Master’s student in **Computer Science at USC** (Jan 2024 – Dec 2025)
+* Specializing in **AI, Machine Learning, and Full-Stack Development**
+* Currently an **AI Research Assistant at USC Information Sciences Institute**
+* Former **SDE Intern at Amazon** (Summer 2025)
 
-Let's connect!
+---
 
-LinkedIn: [https://www.linkedin.com/in/srilatha-dama/](https://www.linkedin.com/in/srilatha-dama/)
+### 🧠 Experience
 
-Email : [srilathadama9@gmail.com](url) / [srilatha@usc.edu](url)
+* **Amazon (SDE Intern)** — Built an MCP server enabling agent-to-agent decisions (99.7% success); integrated AWS Bedrock & Strands SDK to automate workflows and cut query turnaround from 3 days → 15 minutes.
+* **USC ISI (AI Research Assistant)** — Applied LLMs to analyze 2M+ social posts using PyTorch & Transformers; results cited in peer-reviewed papers.
+* **Virtusa (Software Engineer)** — Built full-stack features (MERN); led Kubernetes migration improving scalability 40%.
 
+---
 
-<!--
-**SrilathaDama/SrilathaDama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Projects
 
-Here are some ideas to get you started:
+* **[RAG System](https://github.com/SrilathaDama/rag-system):** End-to-end FastAPI + Streamlit app using Elasticsearch & Llama-3 for hybrid document retrieval.
+* **[TrendTok: AI-Driven Music Synthesis](https://github.com/SrilathaDama/TikTok-Trend-Fusion):** Flask + GCP app generating music and visuals using Meta MusicGen & Stable Diffusion.
+* **[Generative AI Chatbot](https://github.com/SrilathaDama/Chatbot):** Conversational agent using LangChain & OpenAI APIs in Streamlit.
+* **[Stock Market App](https://youtu.be/iSWFWgOraoA):** Real-time stock tracker built with Angular, Node.js & SwiftUI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Technical Skills
+
+* **Languages:** Python, Java, C++, JavaScript, HTML, CSS, Swift
+* **Frameworks:** React, Angular, Node.js, Flask, Django, Streamlit, LangChain
+* **AI/ML:** PyTorch, TensorFlow, Keras, scikit-learn, Transformers
+* **Cloud/DevOps:** AWS (Bedrock, Lambda, Redshift), GCP, Docker, Kubernetes, CI/CD
+* **Data:** SQL, MongoDB, Tableau, ETL Pipelines
+
+---
+
+📫 **Let’s connect:**
+[LinkedIn](https://www.linkedin.com/in/srilatha-dama/) | [GitHub](https://github.com/SrilathaDama)
+📧 [srilatha@usc.edu](mailto:srilatha@usc.edu) | [srilathadama9@gmail.com](mailto:srilathadama9@gmail.com)
+
