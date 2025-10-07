@@ -19,9 +19,11 @@
 ### 🚀 Projects
 
 * **[RAG System](https://github.com/SrilathaDama/rag-system):** End-to-end FastAPI + Streamlit app using Elasticsearch & Llama-3 for hybrid document retrieval.
+* **[Car Pooling Assistance](https://github.com/SrilathaDama/Car_Pooling_Assistance):** Dockerized Python + Flask backend for a car-pooling platform with user matching, booking, and notifications using MariaDB.
 * **[TrendTok: AI-Driven Music Synthesis](https://github.com/SrilathaDama/TikTok-Trend-Fusion):** Flask + GCP app generating music and visuals using Meta MusicGen & Stable Diffusion.
 * **[Generative AI Chatbot](https://github.com/SrilathaDama/Chatbot):** Conversational agent using LangChain & OpenAI APIs in Streamlit.
 * **[Stock Market App](https://youtu.be/iSWFWgOraoA):** Real-time stock tracker built with Angular, Node.js & SwiftUI.
+
 
 ---
 
